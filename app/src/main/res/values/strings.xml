@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Java POS Developer Test</string>
+    <string name="transactions">Transactions</string>
+</resources>
